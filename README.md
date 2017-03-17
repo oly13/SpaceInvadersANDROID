@@ -5,5 +5,3 @@
 Juego SpaceInvaders modificado.
 
 A partir de aqui procedemos a testear el juego
-
-P
