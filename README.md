@@ -4,6 +4,4 @@
 
 Juego SpaceInvaders modificado.
 
-A partir de aqui procedemos a testear el juegooo
-
-ñjsgfd
+A partir de aqui procedemos a testear el juegoo
